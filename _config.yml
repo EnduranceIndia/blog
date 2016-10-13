@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Open Source Initiative
+tagline:             'Endurance International Group'
+description:         'Get the latest updates, news and tutorials from the Open Source Initiative at Endurance International Group'
+url:                 http://enduranceindia.github.io/blog
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              EnduranceIndia
+  url:               http://india.endurance.com
+  email:             apac-opensource@endurance.com
+
+# Custom vars
+version:             1.0.0
